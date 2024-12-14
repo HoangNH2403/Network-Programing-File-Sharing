@@ -1,0 +1,10 @@
+BasedOnStyle: Google
+ColumnLimit: 100
+IndentWidth: 4
+PointerAlignment: Left
+SpaceAfterCStyleCast: true
+UseTab: Never
+AllowShortIfStatementsOnASingleLine: false
+AlignTrailingComments: true
+SpacesBeforeTrailingComments: 3
+AlignConsecutiveMacros: Consecutive
